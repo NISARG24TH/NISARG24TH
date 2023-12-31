@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on  :<br>                                              MERN stack development. <br>👯‍♂️ I'm looking to collaborate on..  : <br>                                               Web3.<br>🌱 I'm currently learning  :<br>                                               RUST.<br>💭 Ask me about : <br>                                               Bootstrap, JavaScript, Node.js, REST, Express.js, React and any general web development query.<br>⚡Fun fact :<br>                                             Passionate to learn new things. 
+🔭 I'm currently working on  :<br>                                              MERN stack development. <br>👯‍♂️ I'm looking to collaborate on..  : <br>                                               Web3.<br>🌱 I'm currently learning  :<br>                                               WEB3.<br>💭 Ask me about : <br>                                               Bootstrap, JavaScript, Node.js, REST, Express.js, React and any general web development query.<br>⚡Fun fact :<br>                                             Passionate to learn new things. 
 
 
 ## 🌐 Socials:
